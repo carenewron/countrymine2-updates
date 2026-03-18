@@ -1,0 +1,11 @@
+{
+    "packages": [
+        {
+            "title": "Country Mine II",
+            "name": "countrymine2",
+            "version": "1.0.0",
+            "location": "https://raw.githubusercontent.com/carenewron/countrymine2-updates/main/modpack.json",
+            "priority": 0
+        }
+    ]
+}
