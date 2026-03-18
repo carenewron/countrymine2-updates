@@ -1,6 +1,6 @@
 {
   "minimumVersion": 1,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "gameVersion": "1.21.1",
   "features": [],
   "librariesLocation": "https://maven.neoforged.net/releases/",
