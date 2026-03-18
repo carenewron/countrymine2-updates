@@ -2031,22 +2031,26 @@
       "client": {
         "sha1": "30c73b1c5da787909b2f73340419fdf13b9def88",
         "size": 26836906,
-        "url": "https://piston-data.mojang.com/v1/objects/30c73b1c5da787909b2f73340419fdf13b9def88/client.jar"
+        "url": "https://piston-data.mojang.com/v1/objects/30c73b1c5da787909b2f73340419fdf13b9def88/client.jar",
+        "id": "client"
       },
       "client_mappings": {
         "sha1": "2244b6f072256667bcd9a73df124d6c58de77992",
         "size": 9598610,
-        "url": "https://piston-data.mojang.com/v1/objects/2244b6f072256667bcd9a73df124d6c58de77992/client.txt"
+        "url": "https://piston-data.mojang.com/v1/objects/2244b6f072256667bcd9a73df124d6c58de77992/client.txt",
+        "id": "client_mappings"
       },
       "server": {
         "sha1": "59353fb40c36d304f2035d51e7d6e6baa98dc05c",
         "size": 51627615,
-        "url": "https://piston-data.mojang.com/v1/objects/59353fb40c36d304f2035d51e7d6e6baa98dc05c/server.jar"
+        "url": "https://piston-data.mojang.com/v1/objects/59353fb40c36d304f2035d51e7d6e6baa98dc05c/server.jar",
+        "id": "server"
       },
       "server_mappings": {
         "sha1": "03f8985492bda0afc0898465341eb0acef35f570",
         "size": 7456063,
-        "url": "https://piston-data.mojang.com/v1/objects/03f8985492bda0afc0898465341eb0acef35f570/server.txt"
+        "url": "https://piston-data.mojang.com/v1/objects/03f8985492bda0afc0898465341eb0acef35f570/server.txt",
+        "id": "server_mappings"
       }
     },
     "complianceLevel": 1.0,
